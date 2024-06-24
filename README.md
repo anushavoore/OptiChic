@@ -51,16 +51,7 @@
         <li>Express</li>
          <li>Mongodb</li>
         <li>Chakra UI </li>
-        </ul>
-        <h1>Creators</h1>
-    <ul>
-        <li><a href="https://github.com/RutuvikP">@Rutuvik Patil</a></li>
-   <li><a href="https://github.com/AkshayKumarGaurav">@Akshay Kumar Gaurav</a></li>
-   <li><a href="https://github.com/lokeshchoudharyprogrammer">@Lokesh Choudhary</a></li>
-  <li><a href="https://github.com/Arnab-108">@Arnab Adhikary</a></li>
-  <li><a href="https://github.com/VivekKumar2380">@Vivek Kumar</a></li>
- 
-   
+        </ul>        
         
         
 
